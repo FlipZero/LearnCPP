@@ -18,30 +18,30 @@
     <ClCompile Include="LearnCPP.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise07.cpp">
+    <ClCompile Include="07\Exercise07.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise08.cpp">
+    <ClCompile Include="08\Exercise08.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise09.cpp">
+    <ClCompile Include="09\Exercise09.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise010.cpp">
+    <ClCompile Include="010\Exercise010.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exercise07.h">
+    <ClInclude Include="07\Exercise07.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="Exercise08.h">
+    <ClInclude Include="08\Exercise08.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="Exercise09.h">
+    <ClInclude Include="09\Exercise09.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="Exercise010.h">
+    <ClInclude Include="010\Exercise010.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
   </ItemGroup>

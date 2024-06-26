@@ -177,17 +177,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exercise010.cpp" />
-    <ClCompile Include="Exercise07.cpp" />
-    <ClCompile Include="Exercise08.cpp" />
-    <ClCompile Include="Exercise09.cpp" />
+    <ClCompile Include="010\Exercise010.cpp" />
+    <ClCompile Include="07\Exercise07.cpp" />
+    <ClCompile Include="08\Exercise08.cpp" />
+    <ClCompile Include="09\Exercise09.cpp" />
     <ClCompile Include="LearnCPP.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exercise010.h" />
-    <ClInclude Include="Exercise07.h" />
-    <ClInclude Include="Exercise08.h" />
-    <ClInclude Include="Exercise09.h" />
+    <ClInclude Include="010\Exercise010.h" />
+    <ClInclude Include="07\Exercise07.h" />
+    <ClInclude Include="08\Exercise08.h" />
+    <ClInclude Include="09\Exercise09.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
